@@ -1,4 +1,4 @@
-package org.ies.tierno.objects.building.model;
+package org.ies.tierno.model;
 
 import java.util.Arrays;
 import java.util.Objects;

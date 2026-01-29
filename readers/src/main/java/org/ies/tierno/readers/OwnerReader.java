@@ -1,4 +1,4 @@
-package org.ies.tierno.objects.building.readers;
+package org.ies.tierno.readers;
 
 import org.ies.tierno.objects.building.model.Owner;
 

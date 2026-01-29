@@ -1,4 +1,4 @@
-package org.ies.tierno.objects.building.app;
+package org.ies.tierno.app;
 
 import org.ies.tierno.objects.building.model.Building;
 import org.ies.tierno.objects.building.readers.BuildingReader;

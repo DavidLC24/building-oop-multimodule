@@ -11,8 +11,8 @@
     <modules>
         <module>model</module>
         <module>building-app1</module>
-        <module>model/readers</module>
-        <module>model/building-menu-app</module>
+        <module>readers</module>
+        <module>building-menu-app</module>
     </modules>
 
     <properties>

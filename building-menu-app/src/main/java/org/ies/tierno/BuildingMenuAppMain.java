@@ -1,6 +1,6 @@
 package org.ies.tierno;
 
-import org.ies.tierno.app.BuildingMenuApp;
+import org.ies.tierno.BuildingMenuApp;
 import org.ies.tierno.readers.ApartmentReader;
 import org.ies.tierno.readers.BuildingReader;
 import org.ies.tierno.readers.OwnerReader;
